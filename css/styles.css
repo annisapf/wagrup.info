@@ -1,0 +1,22 @@
+
+html,
+body {
+    height: 100%;
+}
+
+
+header, nav {
+    background: #00008B;
+}
+
+
+@media screen and (max-width: 400px) and (max-width: 992px) {
+    header {
+        background: #00008B !important;
+    }
+}
+
+
+footer {
+    background: #00008B!important;
+}
